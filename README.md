@@ -1,6 +1,4 @@
-Here’s an updated GitHub README that **includes the file contents** as examples, so someone can follow it directly:
 
----
 
 # **Infrastructure Automation with Ansible: Web + Database**
 
